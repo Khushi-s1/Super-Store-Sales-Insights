@@ -5,9 +5,7 @@ Page 1
 Sum of - Sales: 1.6M, Quantity: 22K, Profit: 175K, Average Days of Delivery: 4
 
 Graphs: 
-
 Monthly Sales in 2 years- Sales decreased in October, Peak at Novermber
-
 Monthly Profit in 2 years- Peak at October, Profit Decreased in November
 
 Sales by Category which shows 3 categories- Office Supplies, Technology, Furniture
