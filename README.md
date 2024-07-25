@@ -1,4 +1,5 @@
 Super Store Sales Dashboard Insights of 2 years-
+
 Page 1 
 Sum of - Sales: 1.6M, Quantity: 22K, Profit: 175K, Average Days of Delivery: 4
 Graphs: 
